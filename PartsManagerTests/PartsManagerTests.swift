@@ -2,7 +2,7 @@
 //  PartsManagerTests.swift
 //  PartsManagerTests
 //
-//  Created by 坂井貴樹 on 2020/08/12.
+//  Created by MeglSiki on 2020/08/12.
 //  Copyright © 2020 MeglSiki. All rights reserved.
 //
 
